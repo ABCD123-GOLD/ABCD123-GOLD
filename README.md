@@ -1,11 +1,11 @@
 **Hi** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**My name is Wuraola Mathew**
-<h3 align="center">A passionate Data Scientist/ML Engineer from Nigeria</h3>
+<h3 align="center">A passionate Data Scientist/ML Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abcd123-gold&label=Profile%20views&color=0e75b6&style=flat" alt="abcd123-gold" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abcd123-gold" alt="abcd123-gold" /></a> </p>
 
-- 🔭 I’m currently working on **End-to-End Heart-Disease Classification**
+- 🔭 I’m currently Finished  **End-to-End Chicken-Disease Classification System**
 
 - 🌱 I’m currently learning **MLOP**
 
