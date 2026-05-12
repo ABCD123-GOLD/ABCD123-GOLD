@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Wuraola Mathew</h1>
-<h3 align="center">AI Automation Architect </h3>
+<h3 align="center">AI Automation Architect | Founder of AutoFlow Labs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abcd123-gold&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
@@ -16,9 +16,9 @@ Welcome to my workspace! I am an AI Automation Architect specializing in designi
 
 My tech journey began in Data Science and Machine Learning. Over the past six years, that foundation naturally evolved into my current focus: building production grade agentic systems. While analyzing data is powerful, I found my true passion in creating digital workforces that take direct action and run themselves. 
 
-Today, I build autonomous pipelines using n8n, Python, FastAPI, and Supabase. Whether developing systems for real estate lead qualification or seamless client onboarding, my goal is to completely eliminate admin overhead and give business owners their time back. 
+Today, I build autonomous pipelines using n8n, Python, FastAPI, and RAG. From architecting intelligent lead generation systems to automating complex Business operations, my goal is to completely eliminate administrative bottlenecks and help businesses scale efficiently. 
 
-Feel free to explore my repositories below to see the architecture and code behind the systems I build.
+Dive into my repositories below to explore the code and architecture driving these systems.
 
 ---
 
