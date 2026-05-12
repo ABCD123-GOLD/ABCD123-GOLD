@@ -1,34 +1,68 @@
-**Hi** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**My name is Wuraola Mathew**
-<h3 align="center">A passionate Data Scientist/ML Engineer </h3>
+<h1 align="center">Hi 👋 I'm Wuraola Mathew</h1>
+<h3 align="center">AI Automation Architect </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abcd123-gold&label=Profile%20views&color=0e75b6&style=flat" alt="abcd123-gold" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abcd123-gold" alt="abcd123-gold" /></a> </p>
-
-- 🔭 I’m currently Finished  **End-to-End Chicken-Disease Classification System**
-
-- 🌱 I’m currently learning **MLOP**
-
-- 📫 How to reach me **arena6663@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abcd123-gold&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ABCD123-GOLD?tab=followers">
+    <img src="https://img.shields.io/github/followers/ABCD123-GOLD?label=Followers&style=flat-square&color=blue" alt="followers" />
+  </a>
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-### Socials
+### 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/ABCD123-GOLD" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Welcome to my workspace! I am an AI Automation Architect specializing in designing intelligent multi-agent systems that replace repetitive operational workflows. 
 
+My tech journey began in Data Science and Machine Learning. Over the past six years, that foundation naturally evolved into my current focus: building production grade agentic systems. While analyzing data is powerful, I found my true passion in creating digital workforces that take direct action and run themselves. 
 
-<b>My GitHub Stats</b>
+Today, I build autonomous pipelines using n8n, Python, FastAPI, and Supabase. Whether developing systems for real estate lead qualification or seamless client onboarding, my goal is to completely eliminate admin overhead and give business owners their time back. 
 
-<a href="http://www.github.com/ABCD123-GOLD"><img src="https://github-readme-stats.vercel.app/api?username=ABCD123-GOLD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="ABCD123-GOLD's GitHub stats" /></a>
+Feel free to explore my repositories below to see the architecture and code behind the systems I build.
 
-<a href="http://www.github.com/ABCD123-GOLD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABCD123-GOLD&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/ABCD123-GOLD"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ABCD123-GOLD&bg_color=000000&color=ffffff&line=000000&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🛠️ Tech Stack
 
-<a href="https://github.com/ABCD123-GOLD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABCD123-GOLD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**AI & Automation:**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_API-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+</p>
+
+**Backend & APIs:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+</p>
+
+**Data & Infrastructure:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+**Integration & Workflow:**
+<p align="left">
+  <img src="https://img.shields.io/badge/ClickUp_API-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+</p>
+
+---
+
+### 📊 Core Competencies
+
+```text
+🤖 AI Agent Orchestration       ████████████████████░  95%
+⚙️  Workflow Automation          ████████████████████░  95%
+🔗 API Integration              ███████████████████░░  90%
+🐍 Python Development           ███████████████████░░  90%
+🌐 n8n Advanced Workflows       ████████████████████░  95%
+🔄 Multi-Agent Systems          ████████████████░░░░░  80%
