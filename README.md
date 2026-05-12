@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Wuraola Mathew</h1>
-<h3 align="center">AI Automation Architect | Founder of AutoFlow Labs</h3>
+<h3 align="center">AI Automation Architect | Founder of Gold Labs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abcd123-gold&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
